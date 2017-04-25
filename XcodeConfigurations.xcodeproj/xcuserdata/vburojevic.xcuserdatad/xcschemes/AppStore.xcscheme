@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FE6C21F01EA791E30017BFA2"
-               BuildableName = "XcodeConfigurations.app"
+               BuildableName = "XC.app"
                BlueprintName = "XcodeConfigurations"
                ReferencedContainer = "container:XcodeConfigurations.xcodeproj">
             </BuildableReference>
@@ -23,7 +23,7 @@
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "AppStoreDebug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE6C21F01EA791E30017BFA2"
-            BuildableName = "XcodeConfigurations.app"
+            BuildableName = "XC.app"
             BlueprintName = "XcodeConfigurations"
             ReferencedContainer = "container:XcodeConfigurations.xcodeproj">
          </BuildableReference>
@@ -42,7 +42,7 @@
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "AppStoreDebug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -56,7 +56,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE6C21F01EA791E30017BFA2"
-            BuildableName = "XcodeConfigurations.app"
+            BuildableName = "XC.app"
             BlueprintName = "XcodeConfigurations"
             ReferencedContainer = "container:XcodeConfigurations.xcodeproj">
          </BuildableReference>
@@ -65,7 +65,7 @@
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
-      buildConfiguration = "Release"
+      buildConfiguration = "AppStoreRelease"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
@@ -75,17 +75,17 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE6C21F01EA791E30017BFA2"
-            BuildableName = "XcodeConfigurations.app"
+            BuildableName = "XC.app"
             BlueprintName = "XcodeConfigurations"
             ReferencedContainer = "container:XcodeConfigurations.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
-      buildConfiguration = "Debug">
+      buildConfiguration = "AppStoreDebug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Release"
+      buildConfiguration = "AppStoreRelease"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>

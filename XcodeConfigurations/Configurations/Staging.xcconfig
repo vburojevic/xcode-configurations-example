@@ -1,0 +1,14 @@
+//
+//  Staging.xcconfig
+//  XcodeConfigurations
+//
+//  Created by Vedran Burojevic on 19/04/2017.
+//  Copyright © 2017 Infinum. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-XcodeConfigurations/Pods-XcodeConfigurations.stagingdebug.xcconfig"
+#include "Pods/Target Support Files/Pods-XcodeConfigurations/Pods-XcodeConfigurations.stagingrelease.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = co.infinum.xcode-configurations-staging
+PRODUCT_NAME = XC Staging
+APP_ICON_NAME = AppIconStaging

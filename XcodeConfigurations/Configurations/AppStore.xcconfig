@@ -1,0 +1,14 @@
+//
+//  AppStore.xcconfig
+//  XcodeConfigurations
+//
+//  Created by Vedran Burojevic on 19/04/2017.
+//  Copyright © 2017 Infinum. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-XcodeConfigurations/Pods-XcodeConfigurations.appstoredebug.xcconfig"
+#include "Pods/Target Support Files/Pods-XcodeConfigurations/Pods-XcodeConfigurations.appstorerelease.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = co.infinum.xcode-configurations
+PRODUCT_NAME = XC
+APP_ICON_NAME = AppIcon
